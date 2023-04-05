@@ -39,18 +39,18 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/sagarojha5/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sagarojha5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sagarojha5/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarojha5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<br/>
-<br/>
 
-<a href="https://github.com/sagarojha5/github-readme-activity-graph"><img alt="Sagar Kumar Ojha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagarojha5&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarkumarojha&show_icons=true&locale=en" alt="sagarkumarojha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarkumarojha&show_icons=true&locale=en&layout=compact" alt="sagarkumarojha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkumarojha&" alt="sagarkumarojha" /></p>
+
+ <p><a href="https://github.com/sagarojha5/github-readme-activity-graph"><img alt="Sagar Kumar Ojha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagarojha5&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <p/>
+
+ <p><img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-all-mode" alt="jayeshthakare98" height="300" width="100%"/></p>
+
+ 
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/sagarkumarojha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -60,6 +60,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sagarojha5">
+    <img src="https://komarev.com/ghpvc/?username=sagarkumarojha">
 </a>
-<a href="https://github.com/sagarojha5?tab=followers"><img src="https://img.shields.io/github/followers/sagarojha5?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sagarkumarojha?tab=followers"><img src="https://img.shields.io/github/followers/sagarkumarojha?label=Followers&style=social" alt="GitHub Badge"></a>
