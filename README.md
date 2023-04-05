@@ -42,11 +42,10 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarkumarojha&show_icons=true&locale=en" alt="sagarkumarojha" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarkumarojha&show_icons=true&locale=en&layout=compact" alt="sagarkumarojha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkumarojha&" alt="sagarkumarojha" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sagarkumarojha&show_icons=true&locale=en" alt="sagarkumarojha" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarkumarojha&show_icons=true&locale=en&layout=compact" alt="sagarkumarojha" /></p>
 
- <p><a href="https://github.com/sagarkumarojha/github-readme-activity-graph"><img alt="Sagar Kumar Ojha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagarkumarojha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <p/>
+<!--  <p><a href="https://github.com/sagarkumarojha/github-readme-activity-graph"><img alt="Sagar Kumar Ojha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sagarkumarojha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <p/> -->
 
  <p><img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-all-mode" alt="sagarkumarojha" height="300" width="100%"/></p>
 
